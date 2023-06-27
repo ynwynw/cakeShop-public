@@ -1,10 +1,10 @@
-**需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
+**完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询**
 
-**需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
+**接毕业设计和论文**
 
 **博客地址：[https://blog.csdn.net/2303_76227485/article/details/128704679](https://blog.csdn.net/2303_76227485/article/details/128704679)**
 
-**视频演示：[https://space.bilibili.com/384537280](https://space.bilibili.com/384537280)**
+**视频演示：[https://www.bilibili.com/video/BV1Mk4y1T7mL/](https://www.bilibili.com/video/BV1Mk4y1T7mL/)**
 
 **毕业设计所有选题地址：[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
@@ -83,7 +83,9 @@ SSM+JSP+CSS+jQuery+bootstrap+mysql
    注：tomcat中配置项目路径必须为cakeshop，否则会有异常；
    
 
-**需要完整代码可以加qq  931708230 或者加微信 ynwwxid**
+**完整代码收费  可以加qq 931708230 或者加微信ynwwxid 咨询**
+
+**接毕业设计和论文**
 
 **需要完整代码可以加qq  931708230 或者加微信  ynwwxid**
 
